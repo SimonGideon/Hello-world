@@ -22,7 +22,6 @@ REQUIRED SECTIONS:
 OPTIONAL SECTIONS:
 - FAQ
 
-After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
@@ -57,16 +56,16 @@ After you're finished please remove all the comments and instructions!
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [your_project_name] <a name="about-project"></a>
+- Implement a connection between a Ruby on Rails back-end and React front-end.
+- Understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+**Hello World** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+> This app was bulit with the follwoing technologies:
 
 <details>
   <summary>Client</summary>
@@ -78,7 +77,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://rubyonrail.com/">Express.js</a></li>
   </ul>
 </details>
 
@@ -93,19 +92,17 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> This app has the follwoing features.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Nivigating on various pages**
+- ** Displays greeting to the user**
+- **Random greetings**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://google.com)
 
@@ -115,83 +112,50 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
 
 ```sh
  gem install rails
 ```
- -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:myaccount/Hello-world.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
-
 ```sh
   cd my-project
   gem install
 ```
---->
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
-
 ```sh
-  rails server
+  rails s
 ```
---->
 
 ### Run tests
 
 To run tests, run the following command:
 
-<!--
-Example command:
-
 ```sh
   bin/rails test test/models/article_test.rb
 ```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,19 +163,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Simon Gideon**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@SimonGideon](https://github.com/SimonGideon)
+- Twitter: [@Simo_Giddy](https://twitter.com/Simo_Giddy)
+- LinkedIn: [mnayi-gideon](https://linkedin.com/in/mnayi-gideon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,9 +177,9 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **Implement user interactions**
+- [ ] **Registration**
+- [ ] **Leaving a comment**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,7 +199,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project feel free to star and also fork to have your local copy.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -251,9 +207,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank me for the efforts made in this prokject.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -261,15 +216,13 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
+- **How can I clone the repo**
 
-- **[Question_1]**
+  - Refer to the project set up informations
 
-  - [Answer_1]
+- **Do you take in partners for contributions**
 
-- **[Question_2]**
-
-  - [Answer_2]
+  - Yes, feel free to drop an email to me.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
