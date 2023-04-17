@@ -55,11 +55,9 @@ OPTIONAL SECTIONS:
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello World <a name="about-project"></a>
 - Implement a connection between a Ruby on Rails back-end and React front-end.
 - Understand the pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
-
-**Hello World** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
