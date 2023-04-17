@@ -64,8 +64,7 @@ OPTIONAL SECTIONS:
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> This app was bulit with the follwoing technologies:
+This app was bulit with the follwoing technologies:
 
 <details>
   <summary>Client</summary>
@@ -91,9 +90,7 @@ OPTIONAL SECTIONS:
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
-
-> This app has the follwoing features.
-
+ This app has the follwoing features.
 - **Nivigating on various pages**
 - ** Displays greeting to the user**
 - **Random greetings**
