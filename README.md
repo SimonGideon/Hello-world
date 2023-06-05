@@ -1,29 +1,4 @@
 <a name="readme-top"></a>
-
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
--->
-
 <div align="center">
   <h3><b>HELLO WORLD WITH RAILS AND REACT</b></h3>
 
@@ -117,7 +92,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd my-folder
+  cd Hello-world
   git clone git@github.com:myaccount/Hello-world.git
 ```
 
@@ -126,7 +101,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd my-project
+  cd Hello-world
   gem install
 ```
 
@@ -143,7 +118,7 @@ To run the project, execute the following command:
 To run tests, run the following command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
+  bin/rails test test/models/greetings_test.rb
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
